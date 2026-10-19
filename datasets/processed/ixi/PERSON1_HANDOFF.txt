@@ -1,0 +1,25 @@
+﻿NeuroJEPA - Person 1 Preprocessing Handoff
+Date: 14 October 2026
+
+Subjects:
+- sub-290: 122 axial PNG slices
+- sub-291: 122 axial PNG slices
+- sub-292: 120 axial PNG slices
+
+Total PNG slices: 364
+Image dimensions: 224 x 224
+Corrupt PNG files: 0
+
+Slice directory:
+datasets/processed/ixi/slices/
+
+Normalized MRI files:
+datasets/processed/ixi/normalized/
+and subject-specific normalized folders, where applicable.
+
+Next stage:
+Person 2 - Fine-tuning and evaluation.
+
+Note:
+Verify the normalized MRI and brain-mask paths
+before configuring the training pipeline.
