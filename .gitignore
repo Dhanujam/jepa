@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated evaluation plots
+/confusion_matrix.png
+/label_efficiency.png
